@@ -8,5 +8,8 @@
 <h3>Responsiveness on devices</h3>
 <h4>Click on the images bellow to see how it is shows</h4>
 <div style="display=inline">
-  <a href="https://resplendent-beignet-b35b6a.netlify.app/" target="_blank"><img src="https://github.com/roberto-cordeiro/Project-TecBlog/blob/master/imagens/imgtela.png?raw=true" height="350px"/></a> <a href="https://resplendent-beignet-b35b6a.netlify.app/" target="_blank"><img href="https://resplendent-beignet-b35b6a.netlify.app/" src="https://github.com/roberto-cordeiro/Project-TecBlog/blob/master/imagens/imgscreen.png?raw=true" width="415px"/></a>
+<a href="https://resilient-lollipop-16a53f.netlify.app/" target="_blank"><img href="https://resplendent-beignet-b35b6a.netlify.app/" src="https://github.com/roberto-cordeiro/Project-TecBlog/blob/master/imagens/imgscreen.png?raw=true" width="500px"/></a><a href="https://resilient-lollipop-16a53f.netlify.app/" target="_blank"><img src="https://github.com/roberto-cordeiro/Project-TecBlog/blob/master/imagens/imgtela.png?raw=true" width="510px"/></a>
+  
 </div>
+
+
