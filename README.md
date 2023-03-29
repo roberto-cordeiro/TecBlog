@@ -8,5 +8,5 @@
 <h3>Responsiveness on devices</h3>
 <h4>Click on the images bellow to see how it is shows</h4>
 <div style="display=inline">
-  <a href="https://resplendent-beignet-b35b6a.netlify.app/" target="_blank"><img src="https://github.com/roberto-cordeiro/Easy-Shopping/blob/master/img/iphone12pro-ready.png?raw=true" height="250px"/></a> <a href="https://resplendent-beignet-b35b6a.netlify.app/" target="_blank"><img href="https://resplendent-beignet-b35b6a.netlify.app/" src="https://github.com/roberto-cordeiro/Easy-Shopping/blob/master/img/tela-ready.png?raw=true" width="415px"/></a>
+  <a href="https://resplendent-beignet-b35b6a.netlify.app/" target="_blank"><img src="https://github.com/roberto-cordeiro/Project-TecBlog/blob/master/imagens/imgtela.png?raw=true" height="350px"/></a> <a href="https://resplendent-beignet-b35b6a.netlify.app/" target="_blank"><img href="https://resplendent-beignet-b35b6a.netlify.app/" src="https://github.com/roberto-cordeiro/Project-TecBlog/blob/master/imagens/imgscreen.png?raw=true" width="415px"/></a>
 </div>
